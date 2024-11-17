@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AbdallahGasem
-- 👀 I’m interested in software planning and buliding  
-- 🌱 I’m currently a second year student at faculty of computers and AI at Cairo Universisty
-- 💞️ I’m looking to collaborate on cpp and python software
+- 👀 I’m interested in software & Data Engineering  
+- 🌱 I’m currently a 3rd year student at faculty of computers and AI at Cairo Universisty
+- 💞️ I am open to connecting with professionals in the tech industry to explore collaborations and opportunities.
 - 📫 How to reach me : ag.ellsayed@gmail.com
 - 😄 Pronouns: male
-- ⚡ Fun fact: Did you know that the official height of Mount Everest is 8,848.86 meters (or approximately 29,031.7 feet) above sea level? That’s equivalent to stacking around 46,449 bananas on top of each other! 🍌🏔️
+- ⚡ Fun fact: I love debugging code almost as much as I love creating it. It's like solving a mystery, but with fewer suspects and more semicolons!
 
 <!---
 AbdallahGasem/AbdallahGasem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
