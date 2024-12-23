@@ -1,12 +1,47 @@
-- 👋 Hi, I’m @AbdallahGasem
-- 👀 I’m interested in software & Data Engineering  
-- 🌱 I’m currently a 3rd year student at faculty of computers and AI at Cairo Universisty
-- 💞️ I am open to connecting with professionals in the tech industry to explore collaborations and opportunities.
-- 📫 How to reach me : ag.ellsayed@gmail.com
-- 😄 Pronouns: male
-- ⚡ Fun fact: I love debugging code almost as much as I love creating it. It's like solving a mystery, but with fewer suspects and more semicolons!
+# Hello World! Iam Abdalllah 👋
 
-<!---
-AbdallahGasem/AbdallahGasem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**`T-Shaped Tech Enthusiast(Developer/Data Scientist/Instructor)`**
+
+I am an Information Systems student at the Faculty of Computers and Artificial Intelligence Cairo University, my focus is on Software & Data Engineering, Data Science and I have a strong interest in building applications. Beyond academics, I actively contribute to the tech community as a Programming Member at LinkCU and explore my creative side as a Photography Member at MSPCU. I continually seek to expand my knowledge and skills through open-source projects, Challenges and staying current with industry trends.
+
+📬 Let's Connect:
+
+[LinkedIn](https://www.linkedin.com/in/abdallahgasem) | [CV](https://drive.google.com/file/d/1pPaDgGSpgZuR4RoBrMvrrhxqjeZCBTjv/view?usp=drive_link)
+
+---
+
+### 🧰 Languages and Tools
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.sv" />
+
+<img align="left" alt="MSSQLSERVER" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+
+
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+
+<br />
