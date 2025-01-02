@@ -9,7 +9,7 @@ I am an Information Systems student at the Faculty of Computers and Artificial I
 
 📬 Let's Connect:
 
-[LinkedIn](https://www.linkedin.com/in/abdallahgasem) | [CV](https://drive.google.com/file/d/1w75DZ7ivLUmc39OOwatS1V0U9HzhqYfz/view?usp=drive_link)
+[LinkedIn](https://www.linkedin.com/in/abdallahgasem) | [CV](https://drive.google.com/file/d/1Nf-d2p3FI4GVenNvZRp9D_VpdHDEfBgm/view?usp=sharing)
 
 ---
 
