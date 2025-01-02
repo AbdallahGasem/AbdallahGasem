@@ -1,6 +1,6 @@
 <img src="https://github.com/AbdallahGasem/AbdallahGasem/blob/main/GithubBanner.png" alt="Banner" />
 
-
+<style> *{color: red} </style>
 # Hello World! Iam Abdalllah 👋
 
 **`T-Shaped Tech Enthusiast(Developer/Data Scientist/Instructor)`**
