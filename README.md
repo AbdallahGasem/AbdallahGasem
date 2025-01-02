@@ -26,6 +26,8 @@ I am an Information Systems student at the Faculty of Computers and Artificial I
 <img align="left" alt="MSSQLSERVER" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
 <br/>
+<br/>
+<br/>
 
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
