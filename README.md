@@ -2,7 +2,7 @@
 
 # Hello World! I am Abdallah 👋
 
-**`T-Shaped Tech Enthusiast (Developer/Data Scientist/Instructor)`**
+**`T-Shaped Software Engineer`**
 
 I am an Information Systems student at the Faculty of Computers and Artificial Intelligence Cairo University, my focus is on Software & Data Engineering, Data Science and I have a strong interest in building applications. Beyond academics, I actively contribute to the tech community as a Programming Member at LinkCU and explore my creative side as a Photography Member at MSPCU. I continually seek to expand my knowledge and skills through open-source projects, Challenges and staying current with industry trends.
 
